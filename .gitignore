@@ -1,4 +1,4 @@
-test
-lib
-.idea
+test/
+lib/
+.idea/
 *.iml
